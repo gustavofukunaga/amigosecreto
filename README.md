@@ -6,7 +6,7 @@ inicializar o server na entrada 3001:
     $ npm run devStart
 
 inicializar o client na entrada 3000:
-    $npm start
+    $ npm start
 
 #USO:
 
