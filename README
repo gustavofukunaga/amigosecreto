@@ -1,11 +1,26 @@
 Implementação de um amigo secreto utilizando node.js, React e emailjs para o envio de emails.
 
+#DEPENDÊNCIAS:
+
+Em /server:
+instalar dependências:
+    
+    $ npm install cors express mongoose nodemon
+    
+Em /client:
+instalar dependências:
+
+    $ npm install axios emailjs-com
+  
+
 #INICIALIZAÇÃO:
 
 inicializar o server na entrada 3001:
+    
     $ npm run devStart
 
 inicializar o client na entrada 3000:
+    
     $ npm start
 
 #USO:
