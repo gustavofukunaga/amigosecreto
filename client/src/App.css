@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input{
+  width: 400px;
+  height: 20px;
+  font-size: 20px;
+  margin: 5px;
+}
+
+button{
+  margin: 10px;
+}
+
+.nomes {
+  text-align: center;
+  font-size: 10px;
+  width: 500px;
+  height: 260px;
+  border: 2px solid black;
+  margin: 20px;
+}
