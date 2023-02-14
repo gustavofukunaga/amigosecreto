@@ -1,0 +1,21 @@
+Implementação de um amigo secreto utilizando node.js, React e emailjs para o envio de emails.
+
+#INICIALIZAÇÃO:
+
+inicializar o server na entrada 3001:
+    $ npm run devStart
+
+inicializar o client na entrada 3000:
+    $npm start
+
+#USO:
+
+O aplicativo recebe um nome e email para um participante, clique em "Realizar Cadastro" para adicionar um participante. Participantes adicionados serão mostrados na parte inferior. É possível editar os dados de um certo participante preenchendo os campos "Novo nome", "Novo email" e clicando em "Atualizar dados" para confirmar a edição. Clicar em "Deletar Dados" irá apagar o participante da lista.
+
+IMPORTANTE:
+    É necessário atualizar a página para ver as mudanças realizadas.
+
+Para realizar o sorteio dos amigos secretos, basta clicar em "REALIZAR SORTEIO", um e-mail informando o amigo escolhido será enviado a cada um dos participantes para o e-mail informado no cadastro.
+
+#versão do react:
+v18.14.0
